@@ -1,1 +1,1 @@
-# ArcoLinux-config
+# ArcoLinux-config for cinnamon
