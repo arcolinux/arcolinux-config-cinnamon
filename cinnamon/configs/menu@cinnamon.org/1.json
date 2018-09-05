@@ -87,7 +87,7 @@
         "default": "Menu",
         "description": "Text",
         "tooltip": "Enter custom text to show in the panel.",
-        "value": "ArcoLinuxB Cinnamon  "
+        "value": "ArcoLinux  "
     },
     "show-category-icons": {
         "type": "switch",
