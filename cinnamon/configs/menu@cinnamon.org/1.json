@@ -90,7 +90,7 @@
         "tooltip": "Enter custom text to show in the panel.",
         "dependency": "menu-custom",
         "indent": true,
-        "value": "ArcoLinux  "
+        "value": ""
     },
     "favbox-min-height": {
         "type": "spinbutton",
